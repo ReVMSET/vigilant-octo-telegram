@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A blog celebrating the magic of retro video game music—from hidden gems to
   forgotten favourites. Explore deep dives into classic soundtracks and discover
   tunes worth listening to all over again.
-# baseurl: "vigilant-octo-telegram" # the subpath of your site, e.g. /blog
+baseurl: "vigilant-octo-telegram" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
